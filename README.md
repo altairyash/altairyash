@@ -50,23 +50,6 @@
   </tr>
 </table>
 
----
-
-<!-- Featured Projects -->
-<h2 align="center">📌 Featured Projects</h2>
-
-<p align="center">
-  <strong>[Instagram AI Automation SaaS](https://github.com/altairyash)</strong><br>
-  <em>Automates Instagram engagement & lead generation with AI, boosting response rates by 60%.</em>
-</p>
-<br>
-<p align="center">
-  <strong>[E-commerce Platform](https://github.com/altairyash)</strong><br>
-  <em>A high-performance platform with 40% faster page loads and 25% improved checkout speed.</em>
-</p>
-
----
-
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -78,20 +61,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altairyash&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
----
-
-<!-- Contribution Graph (Alternative) -->
-<h2 align="center">🟩 GitHub Contributions</h2>
-<p align="center">
-  <!-- If the snake animation isn't loading, try using the default contribution graph -->
-  <img src="https://ghchart.rshah.org/altairyash" alt="GitHub Contributions">
-</p>
-<!-- 
-Note: Replace the above link with your preferred contribution graph if needed.
-For example, the snake animation link can be re-added once it's stable:
-https://github.com/altairyash/altairyash/blob/output/github-contribution-grid-snake.svg
--->
 
 ---
 
