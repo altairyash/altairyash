@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=200&center=true&vCenter=true&width=450&height=45&lines=Full-Stack+Developer;AI+ML+Developer;Performance+Optimizer;Building+Stuff!" alt="Typing SVG" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!-- About Me -->
 <p align="center">
   Passionate Full-Stack Developer with expertise in Next.js, React, TypeScript, and AI-driven solutions.<br>
