@@ -1,13 +1,13 @@
 <!-- Header Section -->
 <h1 align="center">Hi, I'm Yash Yadav 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=450&height=45&lines=Full-Stack+Developer;AI+ML+Developer;Performance+Optimizer;Building+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&center=true&vCenter=true&width=450&height=45&lines=Full-Stack+Developer;AI+ML+Developer;Performance+Optimizer;Building+Stuff!" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
 <p align="center">
   Passionate Full-Stack Developer with expertise in Next.js, React, TypeScript, and AI-driven solutions.<br>
-  Currently crafting high-performance web apps at Deloitte USI and continuously exploring cutting-edge technologies.
+  Currently crafting high-performance web apps & exploring cutting-edge technologies.
 </p>
 
 <!-- Tech Stack -->
