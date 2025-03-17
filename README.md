@@ -55,7 +55,8 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=altairyash&show_icons=true&theme=radical" alt="GitHub Stats">
-  
+</p>
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altairyash&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
