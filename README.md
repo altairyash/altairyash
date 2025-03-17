@@ -10,8 +10,6 @@
   Currently crafting high-performance web apps at Deloitte USI and continuously exploring cutting-edge technologies.
 </p>
 
----
-
 <!-- Tech Stack -->
 <h2 align="center">🛠 Tech Stack</h2>
 
