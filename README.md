@@ -59,8 +59,6 @@
 </p>
 
 
----
-
 <!-- Social Links -->
 <h2 align="center">📫 Connect With Me</h2>
 
@@ -76,7 +74,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <em>"Code, Create, Innovate." 🚀</em>
