@@ -1,58 +1,79 @@
 <!-- Header with Animated Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20%7C%20Backend%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=51" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Yash%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Backend%20Architect%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=GenAI+%26+Backend+Engineer;LangChain+%7C+RAG+Pipelines;Python+%7C+TypeScript+%7C+AWS;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=GenAI+%26+Backend+Engineer;LangChain+%7C+RAG+Pipelines+%7C+Python;AWS+%7C+SQLAlchemy+%7C+TypeScript;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altairyash&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-  <a href="https://linkedin.com/in/yash-yadav14"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yash140498@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yashyadav.info"><img src="https://img.shields.io/badge/-Portfolio-6366F1?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=altairyash&label=Profile%20views&color=d4af37&style=flat-square" alt="Profile views" />
+  <a href="https://linkedin.com/in/yash-yadav14"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+  <a href="mailto:yash140498@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
+  <a href="https://yashyadav.info"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=D4AF37" alt="Portfolio"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 ```python
 class YashYadav:
     def __init__(self):
-        self.name = "Yash Yadav"
         self.role = "GenAI-focused Software Engineer"
-        self.current_company = "Bain & Company"
-        self.location = "India"
-        self.education = {
-            "masters": "M.C.A. - Birla Institute of Technology, Mesra",
-            "bachelors": "B.Sc. Mathematics - University of Lucknow"
-        }
+        self.company = "Bain & Company"
+        self.location = "India 🇮🇳"
+        self.code = ["Python", "TypeScript", "JavaScript"]
+        self.specialties = ["Backend Engineering", "GenAI Systems", "RAG Architecture"]
         
-    def get_expertise(self):
+    def get_current_stack(self):
         return {
-            "backend": ["Python (OOP)", "REST APIs", "SQLAlchemy", "Alembic"],
-            "genai": ["LangChain", "RAG Pipelines", "LLM APIs", "Vector DBs"],
-            "data": ["pandas", "Data Processing", "Feature Engineering"],
+            "backend": ["Python (OOP, Async)", "SQLAlchemy", "Alembic", "REST APIs", "Node.js"],
+            "genai": ["LangChain", "RAG Pipelines", "LLM APIs", "Vector Databases", "Prompt Engineering"],
+            "data": ["pandas", "Data Processing", "Feature Engineering", "ETL Workflows"],
             "frontend": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-            "cloud": ["AWS", "CI/CD", "GitHub Actions", "Linux"]
+            "devops": ["AWS", "CI/CD", "GitHub Actions", "Linux", "Docker"]
         }
     
-    def current_focus(self):
+    def what_i_do(self):
         return [
-            "🤖 Building production-grade GenAI systems",
-            "⚡ Optimizing RAG pipelines and LLM workflows",
-            "🔧 Designing scalable backend architectures",
-            "📊 Data-driven feature engineering"
+            "🤖 Building production-grade GenAI products for enterprise consulting",
+            "⚡ Architecting scalable RAG pipelines with LangChain & vector databases",
+            "🔧 Designing robust backend systems with Python OOP & SQLAlchemy",
+            "📊 Processing & transforming data with pandas for AI-powered insights",
+            "☁️ Deploying cloud-native applications on AWS with automated CI/CD"
         ]
+    
+    def experience_summary(self):
+        return {
+            "current": "Associate Full-Stack Developer (GenAI) @ Bain & Company",
+            "previous": ["AI Developer @ Deloitte USI", "GenAI Instructor @ Starex University"],
+            "impact": "20% API latency reduction | Production GenAI systems | Industry teaching"
+        }
 
-me = YashYadav()
+# Initialize
+yash = YashYadav()
+print(f"💼 {yash.company} | 🎯 {yash.specialties} | 🚀 Building the future of AI")
 ```
 
-> 🚀 **Currently:** Building internal GenAI products at **Bain & Company** • **Previously:** AI Developer at **Deloitte USI** • **Also:** GenAI Instructor at **Starex University**
+</div>
+
+<div align="center">
+
+### 🎯 Quick Bio
+
+**GenAI-focused Software Engineer** with experience building production-grade AI systems at **Bain & Company** and **Deloitte**
+
+Specialized in **Python backend development** • **LangChain RAG pipelines** • **Data engineering with pandas**
+
+**M.C.A. from Birla Institute of Technology** | **Teaching GenAI to industry professionals**
+
+</div>
 
 ---
 
@@ -156,50 +177,17 @@ me = YashYadav()
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 [Lexi AI](https://lexidocs.vercel.app)
-**LangChain-based AI Documentation Search**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
-![Vector DB](https://img.shields.io/badge/-Vector_DB-FF6F00?style=flat-square)
-
-Advanced semantic search platform powered by RAG architecture, enabling natural language queries across technical documentation.
-
-</td>
-<td width="50%">
-
-### 🎨 [Draw2Dev](https://draw2dev.vercel.app)
-**AI Wireframe-to-React Code Converter**
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
-
-Computer vision + LLM system that transforms hand-drawn wireframes into production-ready React components.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=altairyash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=altairyash&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=altairyash&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9&border_radius=10)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altairyash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=altairyash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altairyash&theme=dark&hide_border=true&background=0d1117&stroke=d4af37&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=c9d1d9&dates=8b949e&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altairyash&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=d4af37&text_color=c9d1d9&border_radius=10&langs_count=8)
+
+</div>
 
 ---
 
@@ -217,16 +205,16 @@ Computer vision + LLM system that transforms hand-drawn wireframes into producti
 
 <p align="center">
   <a href="https://linkedin.com/in/yash-yadav14">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/altairyash">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/>
   </a>
   <a href="mailto:yash140498@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/>
   </a>
   <a href="https://yashyadav.info">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" alt="Portfolio"/>
   </a>
 </p>
 
@@ -236,6 +224,6 @@ Computer vision + LLM system that transforms hand-drawn wireframes into producti
   
 ### 💭 *"Building AI systems that solve real problems, one API call at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
 
 </div>
