@@ -180,24 +180,10 @@ Specialized in **Python backend development** • **LangChain RAG pipelines** �
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=altairyash&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9&border_radius=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altairyash&theme=dark&hide_border=true&background=0d1117&stroke=d4af37&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=c9d1d9&dates=8b949e&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altairyash&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=d4af37&text_color=c9d1d9&border_radius=10&langs_count=8)
-
 </div>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🎯 **20% latency reduction** in API response times at Deloitte
-- 🤖 Built **production GenAI products** used by consulting teams at Bain
-- 📚 Taught **hands-on GenAI courses** to industry professionals
-- 🔧 Designed **scalable RAG pipelines** with LangChain + vector databases
-- ☁️ Deployed **AWS services** with automated CI/CD workflows
 
 ---
 
